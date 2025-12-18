@@ -1,7 +1,7 @@
 # Take input from user
 a = int(input("Enter a number: "))
 
-
+# If a is even, reduce it by 1
 if a % 2 == 0:
     a = a - 1
 
